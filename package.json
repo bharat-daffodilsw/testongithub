@@ -1,0 +1,20 @@
+{
+    "name":"ApplaneDBtesin",
+    "version":"1.0.0",
+    "description":"Mongo DB",
+    "main":"index.js",
+ "dependencies":{"mocha":"*","chai":"*"},
+"scripts":{
+"test": "sudo ./node_modules/.bin/mocha --recursive -R xunit test/ > test-reports.x$"
+},
+    "devDependencies":{},
+    
+    "repository":{
+        
+    },
+    "author":"",
+    "license":"BSD",
+    "bugs":{
+        
+    }
+}
