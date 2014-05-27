@@ -5,7 +5,7 @@
     "main":"index.js",
  "dependencies":{"mocha":"*","chai":"*"},
 "scripts":{
-"test": "sudo ./node_modules/.bin/mocha --recursive -R xunit test/ > test-reports.x$"
+"test": "make test"
 },
     "devDependencies":{},
     
